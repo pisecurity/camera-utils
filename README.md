@@ -1,6 +1,6 @@
 # Overview
 
-`planter-cameras` is a set of scripts for detecting and connecting MTP/PTP devices, such as photo cameras, phones, tablets etc.
+`camera-utils` is a set of scripts for detecting and connecting MTP/PTP devices, such as photo cameras, phones, tablets etc.
 
 # Installing
 
